@@ -23,11 +23,11 @@ main:
    - title: "CV"
     url: /cv/
     
-   - title: "Reading"
-    url: /year-archive/
+  # - title: "Reading"
+  #  url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Contact"
-    url: /markdown/
+  # - title: "Contact"
+  # url: /markdown/
