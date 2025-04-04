@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Jiaqi Sun's Curriculum Vitae](../assets/Sun_CV_April2025.pdf)
+[Jiaqi Sun's Curriculum Vitae](jiaqisunsoc.github.io/assets/Sun_CV_April2025.pdf)
